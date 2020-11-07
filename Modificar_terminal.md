@@ -1,4 +1,4 @@
-# Customizar terminal de linux
+# Cómo customizar la terminal de linux
 
 ![](https://img.shields.io/github/last-commit/josewcabr/GuiasyTutoriales) ![](https://img.shields.io/github/watchers/josewcabr/GuiasyTutoriales?label=Visitas)
 
@@ -13,9 +13,11 @@
 <img src ="images/agnoster.png" width="450">
 <br>
 
+Esta guía te ayudará a customizar tu terminal de linux con un diseño mas ameno. 
+
 ## Instalación en BASH
 
-Esta guía te ayudará a customizar tu terminal de linux con un diseño mas ameno. Empezaremos con una terminal con **bash** como _shell_ por defecto.
+Empezaremos con una terminal con **bash** como _shell_ por defecto.
 
 Para esto necesitaremos el framework **oh my bash** con el que instalaremos los plugins, no olvides visitar su [repositorio oficial](https://github.com/ohmybash/oh-my-bash) en github.
 
