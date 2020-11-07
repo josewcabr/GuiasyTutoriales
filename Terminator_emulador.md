@@ -1,5 +1,7 @@
 # Terminator: un emulador rápido y sencillo
 
+![](https://img.shields.io/github/last-commit/josewcabr/GuiasyTutoriales) ![](https://img.shields.io/github/watchers/josewcabr/GuiasyTutoriales?label=Visitas)
+
 Dentro de los emuladores de terminal que tenemos disponibles para linux, existe una gran variedad de estos; desde los que se instalan directamente, los portables y los que son aplicaciones de [electron](https://www.electronjs.org/).
 
 En esta guía vamos a ver uno muy fácil de usar llamado **Terminator**. La instalación es muy sencilla, tan solo debemos ejecutar el siguiente comando.
@@ -43,7 +45,9 @@ Para ello iremos dentro de **Perfiles** a la pestaña **Colores** y desmarcaremo
 Si todo ha salido bien deberiamos obtener algo parecido a esto.
 
 <img src="images/term_1.png">
+
 ---
+
 ### **Importante**
 
 Debido a la modificación de quitar los bordes de la ventana, ya no tendremos tan a mano las opciones de cerrar o redimencionar, por lo que debemos utilizar los atajos de teclado como `Crtl + Mayus + W` para cerrar la ventana o mantener presionada la tecla `Alt` para mover la ventana.
