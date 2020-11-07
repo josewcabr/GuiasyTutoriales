@@ -1,7 +1,8 @@
 # Customizar terminal de linux
 
-<img src="https://img.shields.io/github/last-commit/josewcabr/GuiasyTutoriales">
-<img src="https://img.shields.io/github/watchers/josewcabr/GuiasyTutoriales?label=Visitas">
+![](https://img.shields.io/github/last-commit/josewcabr/GuiasyTutoriales) ![](https://img.shields.io/github/watchers/josewcabr/GuiasyTutoriales?label=Visitas)
+
+
 
 ### ¿Te gustaría pasar de esto
 
